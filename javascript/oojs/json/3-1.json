@@ -1,0 +1,25 @@
+{
+   "country": [
+      {
+         "name": "Sydney",
+         "landmarks": [
+            "Harbour Bride", 
+            "Opera House" ]
+      },
+      {   
+         "name": "Melbourne",
+         "landmarks": [
+               "Federation Square", 
+               "National Gallery of Victoria"
+         ] 
+      },
+
+      {
+         "name": "Adelaide",
+         "landmarks": [
+               "Botanic Garden", 
+               "Art Gallery of South Australia"
+         ]   
+      }
+  ]
+}
